@@ -1,2 +1,2 @@
 # KickStart
-Problems Solved in Foogle KickStart
+Problems Solved in Google KickStart
